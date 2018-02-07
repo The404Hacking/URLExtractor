@@ -8,7 +8,7 @@ Information gathering & website reconnaissance
 ------
 
 **Usage:**
-`./extractor http://www.target.org/`
+`./extractor.sh http://www.target.org/`
 
 
 Features:
