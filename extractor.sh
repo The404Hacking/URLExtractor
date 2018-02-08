@@ -15,7 +15,7 @@ source config.sh
 TARGET=$1
 
 echo -e "\e[1;32m##################################################"
-echo -e "#                  URLextractor                  #"
+echo -e "#                  URLExtractor                  #"
 echo -e "# Information Gathering & Website Reconnaissance #"
 echo -e "#                                                #"
 echo -e "#                 The404Hacking                  #"
