@@ -76,7 +76,7 @@ Todo list:
 * [ ] Check for installed packages
 
 ## Download and Clone
-> Download: Click [Here](https://github.com/The404Hacking/URLExtractor/archive/master.zip) (Infoga-master.zip)
+> Download: Click [Here](https://github.com/The404Hacking/URLExtractor/archive/master.zip) (URLExtractor-master.zip)
 
 > Clone: git clone [https://github.com/The404Hacking/URLExtractor.git](https://github.com/The404Hacking/URLExtractor.git)
 
